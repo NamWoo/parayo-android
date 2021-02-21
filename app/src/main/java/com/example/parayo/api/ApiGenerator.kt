@@ -40,7 +40,7 @@ class ApiGenerator {
         }
 
     companion object {
-        const val HOST = "http://10.0.2.2:8080"
+        const val HOST = "http://ec2-3-36-128-43.ap-northeast-2.compute.amazonaws.com:8080"
     }
 
 }
